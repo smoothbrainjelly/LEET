@@ -1,6 +1,7 @@
 class Solution {
     /**
-     * https://neetcode.io/problems/validate-parentheses
+     * https://leetcode.com/problems/valid-parentheses/description/
+     * 
      * @param {string} s
      * @return {boolean}
      */
